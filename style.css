@@ -1,0 +1,73 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  back
+  background-repeat: no-repeat;
+  font-family: Arial, Helvetica;
+}
+
+.quadronero{
+  width: 800px;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  padding: 70px;
+  border-radius: 20px;
+}
+
+header{
+  text-align: center;
+  color: rgb(34,219,19)
+}
+
+#logo{
+  width: 250px;
+}
+
+h1{
+  margin: 3px;
+}
+
+.barramenu{
+  width: 800px;
+  background-color: rgb(34,219,19);
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+button{
+  padding: 2px,3px;
+}
+
+.monopattino{
+  margin-top: 10px;
+  color: white;
+}
+
+.monopattino *{
+  margin: 0px;
+  line-height: 25px;
+}
+
+h3{
+  display: inline-block;
+}
+
+.carica{
+  border-radius: 5px;
+  border: 1px;
+}
+
+.Gino{
+  background-color: rgb(243,179,92);
+  width: 300px;
+}
+
+.Mike{
+  background-color: rgb(34,219,19);
+  width: 500px;
+}
+
+.Fede{
+  background-color: rgb(188,66,68);
+}
